@@ -1,3 +1,6 @@
+# TO DO:
+Right now, this job is specific to a single use case.  The idea is to eventually modify it so that it can be used on any STCS to TWCS migration by simply passing in the correct variables.  
+
 # dse-twcs-migrator
 This program will migrate the data from a source STCS tabele to another table, which can be on a different cluster.  In order to run this program you will need a DSE cluster with DSE Analytics (Spark) enabled.
 
